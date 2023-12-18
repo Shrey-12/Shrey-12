@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrey-12
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning netorking machine learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently practising Algorithms
+- 💞️ I’m looking to collaborate on interactive pages and :)) anything and everything interesting.
 - 📫 How to reach me shreya.malik21b@iiitg.ac.in
 
 <!---
